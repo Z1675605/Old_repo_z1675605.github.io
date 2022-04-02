@@ -28,9 +28,9 @@ My role as the Operations Manager is to ensure that the warehouse was operating 
 
 ## UW Dept of Geography (Seattle, WA)
 
-  [University of Washington][https://www.washington.edu/] The webpage for the University of Washington.*
+  *[University of Washington][https://www.washington.edu/] The webpage for the University of Washington.*
 
-  [Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography.*
+  *[Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography.*
 
 ** Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
 
