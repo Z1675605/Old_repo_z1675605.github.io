@@ -34,7 +34,7 @@ My role as the Operations Manager is to ensure that the warehouse was operating 
 
 **Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
 
-My role as the Student IT Worker for the Dept of Geography is to fix issues as they arose from the faculty, staff, and graduate students. I am tasked to find improvments to our operations and share ideas with my supervisor, I also keep record of issues as they are solved in our knowledge base for future use, in order to access important information I organize tickets by issue type and severity. I also take care of the labs and ensure all machines are in operation, I assist faculty in their teaching by testing new methods for their students before they are deployed.
+My role as the Student IT Worker for the Dept of Geography is to fix issues as they arise from the faculty, staff, and graduate students. I am tasked to find improvments to our operations and share ideas with my supervisor, I also keep record of issues as they are solved in our knowledge base for future use, in order to access important information I organize tickets by issue type and severity. I also take care of the labs and ensure all lab machines are in operation, I assist faculty in their classes by testing new teaching methods for their students before they are deployed.
 
 - Work with faculty to resolve technical issues
 - Research methods to provive better efficiency with tech
