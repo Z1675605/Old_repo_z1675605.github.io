@@ -2,6 +2,8 @@
 
 zamudio@uw.edu
 
+> Even the most simple things in life provide a shining light, and I want to share that light in all that I do.
+
 # Summary
 
 I have a lot of experience working with other people and leading large groups into succesful projects. Most of my work involves solving problems and taking action, I strive for efficiency and also keep my mind open to new learning opportunies.
@@ -9,6 +11,9 @@ I have a lot of experience working with other people and leading large groups in
 # Work Experience
 
 ## SF Warehouse (Wapato, WA)
+
+![A Warehouse](/files/warehouse.jpg)
+
 
 ** Operations Manager (Warehouse Manager)** (June 2017 - Present)
 
@@ -22,6 +27,9 @@ My role as the Operations Manager is to ensure that the warehouse was operating 
 - Inventory and supply of resources
 
 ## UW Dept of Geography (Seattle, WA)
+
+[University of Washington][https://www.washington.edu/] The webpage for the University of Washington.*
+[Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography.*
 
 ** Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
 
