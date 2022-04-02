@@ -28,11 +28,11 @@ My role as the Operations Manager is to ensure that the warehouse was operating 
 
 ## UW Dept of Geography (Seattle, WA)
 
-* [University of Washington][https://www.washington.edu/] The webpage for the University of Washington. *
+*[University of Washington][https://www.washington.edu/] The webpage for the University of Washington.*
 
-* [Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography. *
+*[Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography.*
 
-** Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
+**Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
 
 My role as the Student IT Worker for the Dept of Geography is to fix issues as they arose from the faculty, staff, and graduate students. I am tasked to find improvments to our operations and share ideas with my supervisor, I also keep record of issues as they are solved in our knowledge base for future use, in order to access important information I organize tickets by issue type and severity. I also take care of the labs and ensure all machines are in operation, I assist faculty in their teaching by testing new methods for their students before they are deployed.
 
