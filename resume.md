@@ -15,7 +15,7 @@ I have a lot of experience working with other people and leading large groups in
 ![A Warehouse](/files/warehouse.jpg)
 
 
-** Operations Manager (Warehouse Manager)** (June 2017 - Present)
+**Operations Manager (Warehouse Manager)** (June 2017 - Present)
 
 My role as the Operations Manager is to ensure that the warehouse was operating smoothly and to fix issues as they arose, issues would range from slow prodution to total machine failure, in order to avoid the worse issues I stuck to a strict maintenance schedule and conducted bi-weekly training with supervisors. I also operate the logistics of shipping by contacting buyers and coordinating time for pickup or drop off in our loading dock. In order to make sure everything ran smoothly, I would clearly communicate with each crew their task that was scheduled for the day.
 
@@ -28,9 +28,9 @@ My role as the Operations Manager is to ensure that the warehouse was operating 
 
 ## UW Dept of Geography (Seattle, WA)
 
-  *[University of Washington][https://www.washington.edu/] The webpage for the University of Washington.*
+* [University of Washington][https://www.washington.edu/] The webpage for the University of Washington. *
 
-  *[Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography.*
+* [Dept of Geography][https://geography.washington.edu/] The Webpage for the Department of Geography. *
 
 ** Student IT Worker (Lab Monitor)** (Sept 2018 - Present)
 
