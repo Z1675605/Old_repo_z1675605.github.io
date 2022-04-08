@@ -8,6 +8,29 @@ zamudio@uw.edu
 
 I have a lot of experience working with other people and leading large groups into succesful projects. Most of my work involves solving problems and taking action, I strive for efficiency and also keep my mind open to new learning opportunies.
 
+# Skills
+- Python
+- R
+- ArcGiS
+- Java
+- Leadership
+- Management
+- Basic First Aid
+- Forklift Certified
+- Can drive Semi-Truck
+
+# Education
+## Wapato High School (Graduated)
+
+![Wapato High School](/files/whs.jpg)
+
+As a graduate of the school and within top of my class, I graduated with honors chords in Math, Science, English, Spanish, Volunteering, and Academics. I participated in many programs for our community that my school hosted and I was part of UW's Gear Up program which involved enrollment in UW courses within high school.
+
+## University of Washington (Undergraduate)
+### Going for Geography: Data Science Major
+
+I am currently enrolled in the University of Washington as a Geography student. During my time here I maintained a job alongside my studies and participated in social events hosted by the university.
+
 # Work Experience
 
 ## SF Warehouse (Wapato, WA)
